@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36518.9
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitarMagazaOtomasyonu", "GitarMagazaOtomasyonu\GitarMagazaOtomasyonu.csproj", "{3455AB42-10E5-45ED-AA5A-8AF27D6E4ABB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		GitarMagazaOtomasyonu|Any CPU = GitarMagazaOtomasyonu|Any CPU
+		GitarMagazaOtomasyonu|x64 = GitarMagazaOtomasyonu|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3455AB42-10E5-45ED-AA5A-8AF27D6E4ABB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3455AB42-10E5-45ED-AA5A-8AF27D6E4ABB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3455AB42-10E5-45ED-AA5A-8AF27D6E4ABB}.Debug|x64.ActiveCfg = Debug|x64
+		{3455AB42-10E5-45ED-AA5A-8AF27D6E4ABB}.Debug|x64.Build.0 = Debug|x64
+		{3455AB42-10E5-45ED-AA5A-8AF27D6E4ABB}.GitarMagazaOtomasyonu|Any CPU.ActiveCfg = GitarMagazaOtomasyonu|Any CPU
+		{3455AB42-10E5-45ED-AA5A-8AF27D6E4ABB}.GitarMagazaOtomasyonu|Any CPU.Build.0 = GitarMagazaOtomasyonu|Any CPU
+		{3455AB42-10E5-45ED-AA5A-8AF27D6E4ABB}.GitarMagazaOtomasyonu|x64.ActiveCfg = GitarMagazaOtomasyonu|x64
+		{3455AB42-10E5-45ED-AA5A-8AF27D6E4ABB}.GitarMagazaOtomasyonu|x64.Build.0 = GitarMagazaOtomasyonu|x64
+		{3455AB42-10E5-45ED-AA5A-8AF27D6E4ABB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3455AB42-10E5-45ED-AA5A-8AF27D6E4ABB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3455AB42-10E5-45ED-AA5A-8AF27D6E4ABB}.Release|x64.ActiveCfg = Release|x64
+		{3455AB42-10E5-45ED-AA5A-8AF27D6E4ABB}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

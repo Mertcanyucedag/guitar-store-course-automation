@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\Users\Mert Can Yücedağ\Desktop\240542023_NTP_PROJE\GitarMagazaOtomasyonu\GitarMagazaOtomasyonu\Properties\PublishProfiles\FolderProfile8.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="AnaSayfa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="kullaniciai.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="kullanicikurs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="kullanicistok.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="KursSayfasi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="StokEkleForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="StokGForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="StokSayfasi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TamirAI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="yenirapor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
