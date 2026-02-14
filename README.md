@@ -1,6 +1,9 @@
 # Gitar Mağaza-Tamir, Kurs Otomasyonu
 
 Bu proje, modern bir müzik mağazasının operasyonel ihtiyaçlarını karşılamak için tasarlanmış kapsamlı bir otomasyon sistemidir. Sistem; Stok Takibi, Öğrenci Kurs Yönetimi ve AI Destekli Enstrüman Tamir/Eğitim Birimi olmak üzere üç ana modülden oluşmaktadır.
+Akıllı Teknik Servis: Mağazaya tamir için gelen enstrümanların fotoğraflarını analiz edip, teknisyene onarım önerileri sunan bir asistan. 7/24 AI Eğitmen: Kurs öğrencilerine diledikleri zaman akor bilgisi ve müzik teorisi desteği sağlayan interaktif bir eğitmen.
+
+Bu proje, stok yönetimi ve kurs takibi gibi standart süreçleri; modern, güvenli ve yapay zeka destekli bir yapıya kavuşturarak işletme verimliliğini artırmayı amaçlıyor
 
 ## Projenin Özeti
 - Stok yönetimi (Admin)
@@ -18,7 +21,7 @@ Bu proje, modern bir müzik mağazasının operasyonel ihtiyaçlarını karşıl
 ## Geliştirici
 - **Mert Can Yücedağ**
 - Öğrenci Numarası: 240542023
-- Proje yürütücüleri: Dr. Öğr. Üyesi V. Cem BAYDOĞAN, Arş. Gör. Hüseyin Alperen DAĞDÖGEN
+
 
 ## Kurulum
 1. Projeyi klonlayın:
